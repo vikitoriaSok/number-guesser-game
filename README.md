@@ -10,7 +10,7 @@
 🚀 БЫСТРЫЙ СТАРТ
 
 Готовый EXE
-📥 Скачать: [guessgame.exe](https://github.com/ВАШ_USERNAME/number-guesser-game/raw/main/guessgame.exe)
+📥 Скачать: [guessgame.exe](https://github.com/vikitoriaSok/number-guesser-game/blob/main/guessgame.exe)
 
 Просто нажмите на ссылку выше и файл начнет скачиваться!
 
