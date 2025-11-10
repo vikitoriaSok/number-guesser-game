@@ -1,4 +1,4 @@
-🎮 NUMBERE GUESSER GAME 🎮
+🎮 NUMBERE GUESSER GAME FROM VIKA  🎮
 Простая игра угадай число от Вики
 
 Как угадать число от 1 до 100 за 10 попыток? Обзор игры Number Guesser Sok
